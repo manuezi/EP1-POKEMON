@@ -1,0 +1,801 @@
+csv_numero,nome_csv,conciliado,metodo,pokedex_numero
+1,Bulbasaur,True,exato,1
+10,Squirtle,True,exato,7
+100,Gastly,True,exato,92
+101,Haunter,True,exato,93
+102,Gengar,True,exato,94
+103,Mega Gengar,True,exato,94
+104,Onix,True,exato,95
+105,Drowzee,True,exato,96
+106,Hypno,True,exato,97
+107,Krabby,True,exato,98
+108,Kingler,True,exato,99
+109,Voltorb,True,exato,100
+11,Wartortle,True,exato,8
+110,Electrode,True,exato,101
+111,Exeggcute,True,exato,102
+112,Exeggutor,True,exato,103
+113,Cubone,True,exato,104
+114,Marowak,True,exato,105
+115,Hitmonlee,True,exato,106
+116,Hitmonchan,True,exato,107
+117,Lickitung,True,exato,108
+118,Koffing,True,exato,109
+119,Weezing,True,exato,110
+12,Blastoise,True,exato,9
+120,Rhyhorn,True,exato,111
+121,Rhydon,True,exato,112
+122,Chansey,True,exato,113
+123,Tangela,True,exato,114
+124,Kangaskhan,True,exato,115
+125,Mega Kangaskhan,True,exato,115
+126,Horsea,True,exato,116
+127,Seadra,True,exato,117
+128,Goldeen,True,exato,118
+129,Seaking,True,exato,119
+13,Mega Blastoise,True,exato,9
+130,Staryu,True,exato,120
+131,Starmie,True,exato,121
+132,Mr. Mime,True,exato,122
+133,Scyther,True,exato,123
+134,Jynx,True,exato,124
+135,Electabuzz,True,exato,125
+136,Magmar,True,exato,126
+137,Pinsir,True,exato,127
+138,Mega Pinsir,True,exato,127
+139,Tauros,True,exato,128
+14,Caterpie,True,exato,10
+140,Magikarp,True,exato,129
+141,Gyarados,True,exato,130
+142,Mega Gyarados,True,exato,130
+143,Lapras,True,exato,131
+144,Ditto,True,exato,132
+145,Eevee,True,exato,133
+146,Vaporeon,True,exato,134
+147,Jolteon,True,exato,135
+148,Flareon,True,exato,136
+149,Porygon,True,exato,137
+15,Metapod,True,exato,11
+150,Omanyte,True,exato,138
+151,Omastar,True,exato,139
+152,Kabuto,True,exato,140
+153,Kabutops,True,exato,141
+154,Aerodactyl,True,exato,142
+155,Mega Aerodactyl,True,exato,142
+156,Snorlax,True,exato,143
+157,Articuno,True,exato,144
+158,Zapdos,True,exato,145
+159,Moltres,True,exato,146
+16,Butterfree,True,exato,12
+160,Dratini,True,exato,147
+161,Dragonair,True,exato,148
+162,Dragonite,True,exato,149
+163,Mewtwo,True,exato,150
+164,Mega Mewtwo X,True,exato,150
+165,Mega Mewtwo Y,True,exato,150
+166,Mew,True,exato,151
+167,Chikorita,True,exato,152
+168,Bayleef,True,exato,153
+169,Meganium,True,exato,154
+17,Weedle,True,exato,13
+170,Cyndaquil,True,exato,155
+171,Quilava,True,exato,156
+172,Typhlosion,True,exato,157
+173,Totodile,True,exato,158
+174,Croconaw,True,exato,159
+175,Feraligatr,True,exato,160
+176,Sentret,True,exato,161
+177,Furret,True,exato,162
+178,Hoothoot,True,exato,163
+179,Noctowl,True,exato,164
+18,Kakuna,True,exato,14
+180,Ledyba,True,exato,165
+181,Ledian,True,exato,166
+182,Spinarak,True,exato,167
+183,Ariados,True,exato,168
+184,Crobat,True,exato,169
+185,Chinchou,True,exato,170
+186,Lanturn,True,exato,171
+187,Pichu,True,exato,172
+188,Cleffa,True,exato,173
+189,Igglybuff,True,exato,174
+19,Beedrill,True,exato,15
+190,Togepi,True,exato,175
+191,Togetic,True,exato,176
+192,Natu,True,exato,177
+193,Xatu,True,exato,178
+194,Mareep,True,exato,179
+195,Flaaffy,True,exato,180
+196,Ampharos,True,exato,181
+197,Mega Ampharos,True,exato,181
+198,Bellossom,True,exato,182
+199,Marill,True,exato,183
+2,Ivysaur,True,exato,2
+20,Mega Beedrill,True,exato,15
+200,Azumarill,True,exato,184
+201,Sudowoodo,True,exato,185
+202,Politoed,True,exato,186
+203,Hoppip,True,exato,187
+204,Skiploom,True,exato,188
+205,Jumpluff,True,exato,189
+206,Aipom,True,exato,190
+207,Sunkern,True,exato,191
+208,Sunflora,True,exato,192
+209,Yanma,True,exato,193
+21,Pidgey,True,exato,16
+210,Wooper,True,exato,194
+211,Quagsire,True,exato,195
+212,Espeon,True,exato,196
+213,Umbreon,True,exato,197
+214,Murkrow,True,exato,198
+215,Slowking,True,exato,199
+216,Misdreavus,True,exato,200
+217,Unown,True,exato,201
+218,Wobbuffet,True,exato,202
+219,Girafarig,True,exato,203
+22,Pidgeotto,True,exato,17
+220,Pineco,True,exato,204
+221,Forretress,True,exato,205
+222,Dunsparce,True,exato,206
+223,Gligar,True,exato,207
+224,Steelix,True,exato,208
+225,Mega Steelix,True,exato,208
+226,Snubbull,True,exato,209
+227,Granbull,True,exato,210
+228,Qwilfish,True,exato,211
+229,Scizor,True,exato,212
+23,Pidgeot,True,exato,18
+230,Mega Scizor,True,exato,212
+231,Shuckle,True,exato,213
+232,Heracross,True,exato,214
+233,Mega Heracross,True,exato,214
+234,Sneasel,True,exato,215
+235,Teddiursa,True,exato,216
+236,Ursaring,True,exato,217
+237,Slugma,True,exato,218
+238,Magcargo,True,exato,219
+239,Swinub,True,exato,220
+24,Mega Pidgeot,True,exato,18
+240,Piloswine,True,exato,221
+241,Corsola,True,exato,222
+242,Remoraid,True,exato,223
+243,Octillery,True,exato,224
+244,Delibird,True,exato,225
+245,Mantine,True,exato,226
+246,Skarmory,True,exato,227
+247,Houndour,True,exato,228
+248,Houndoom,True,exato,229
+249,Mega Houndoom,True,exato,229
+25,Rattata,True,exato,19
+250,Kingdra,True,exato,230
+251,Phanpy,True,exato,231
+252,Donphan,True,exato,232
+253,Porygon2,True,exato,233
+254,Stantler,True,exato,234
+255,Smeargle,True,exato,235
+256,Tyrogue,True,exato,236
+257,Hitmontop,True,exato,237
+258,Smoochum,True,exato,238
+259,Elekid,True,exato,239
+26,Raticate,True,exato,20
+260,Magby,True,exato,240
+261,Miltank,True,exato,241
+262,Blissey,True,exato,242
+263,Raikou,True,exato,243
+264,Entei,True,exato,244
+265,Suicune,True,exato,245
+266,Larvitar,True,exato,246
+267,Pupitar,True,exato,247
+268,Tyranitar,True,exato,248
+269,Mega Tyranitar,True,exato,248
+27,Spearow,True,exato,21
+270,Lugia,True,exato,249
+271,Ho-oh,True,exato,250
+272,Celebi,True,exato,251
+273,Treecko,True,exato,252
+274,Grovyle,True,exato,253
+275,Sceptile,True,exato,254
+276,Mega Sceptile,True,exato,254
+277,Torchic,True,exato,255
+278,Combusken,True,exato,256
+279,Blaziken,True,exato,257
+28,Fearow,True,exato,22
+280,Mega Blaziken,True,exato,257
+281,Mudkip,True,exato,258
+282,Marshtomp,True,exato,259
+283,Swampert,True,exato,260
+284,Mega Swampert,True,exato,260
+285,Poochyena,True,exato,261
+286,Mightyena,True,exato,262
+287,Zigzagoon,True,exato,263
+288,Linoone,True,exato,264
+289,Wurmple,True,exato,265
+29,Ekans,True,exato,23
+290,Silcoon,True,exato,266
+291,Beautifly,True,exato,267
+292,Cascoon,True,exato,268
+293,Dustox,True,exato,269
+294,Lotad,True,exato,270
+295,Lombre,True,exato,271
+296,Ludicolo,True,exato,272
+297,Seedot,True,exato,273
+298,Nuzleaf,True,exato,274
+299,Shiftry,True,exato,275
+3,Venusaur,True,exato,3
+30,Arbok,True,exato,24
+300,Taillow,True,exato,276
+301,Swellow,True,exato,277
+302,Wingull,True,exato,278
+303,Pelipper,True,exato,279
+304,Ralts,True,exato,280
+305,Kirlia,True,exato,281
+306,Gardevoir,True,exato,282
+307,Mega Gardevoir,True,exato,282
+308,Surskit,True,exato,283
+309,Masquerain,True,exato,284
+31,Pikachu,True,exato,25
+310,Shroomish,True,exato,285
+311,Breloom,True,exato,286
+312,Slakoth,True,exato,287
+313,Vigoroth,True,exato,288
+314,Slaking,True,exato,289
+315,Nincada,True,exato,290
+316,Ninjask,True,exato,291
+317,Shedinja,True,exato,292
+318,Whismur,True,exato,293
+319,Loudred,True,exato,294
+32,Raichu,True,exato,26
+320,Exploud,True,exato,295
+321,Makuhita,True,exato,296
+322,Hariyama,True,exato,297
+323,Azurill,True,exato,298
+324,Nosepass,True,exato,299
+325,Skitty,True,exato,300
+326,Delcatty,True,exato,301
+327,Sableye,True,exato,302
+328,Mega Sableye,True,exato,302
+329,Mawile,True,exato,303
+33,Sandshrew,True,exato,27
+330,Mega Mawile,True,exato,303
+331,Aron,True,exato,304
+332,Lairon,True,exato,305
+333,Aggron,True,exato,306
+334,Mega Aggron,True,exato,306
+335,Meditite,True,exato,307
+336,Medicham,True,exato,308
+337,Mega Medicham,True,exato,308
+338,Electrike,True,exato,309
+339,Manectric,True,exato,310
+34,Sandslash,True,exato,28
+340,Mega Manectric,True,exato,310
+341,Plusle,True,exato,311
+342,Minun,True,exato,312
+343,Volbeat,True,exato,313
+344,Illumise,True,exato,314
+345,Roselia,True,exato,315
+346,Gulpin,True,exato,316
+347,Swalot,True,exato,317
+348,Carvanha,True,exato,318
+349,Sharpedo,True,exato,319
+35,Nidoran♀,True,aproximado,32
+350,Mega Sharpedo,True,exato,319
+351,Wailmer,True,exato,320
+352,Wailord,True,exato,321
+353,Numel,True,exato,322
+354,Camerupt,True,exato,323
+355,Mega Camerupt,True,exato,323
+356,Torkoal,True,exato,324
+357,Spoink,True,exato,325
+358,Grumpig,True,exato,326
+359,Spinda,True,exato,327
+36,Nidorina,True,exato,30
+360,Trapinch,True,exato,328
+361,Vibrava,True,exato,329
+362,Flygon,True,exato,330
+363,Cacnea,True,exato,331
+364,Cacturne,True,exato,332
+365,Swablu,True,exato,333
+366,Altaria,True,exato,334
+367,Mega Altaria,True,exato,334
+368,Zangoose,True,exato,335
+369,Seviper,True,exato,336
+37,Nidoqueen,True,exato,31
+370,Lunatone,True,exato,337
+371,Solrock,True,exato,338
+372,Barboach,True,exato,339
+373,Whiscash,True,exato,340
+374,Corphish,True,exato,341
+375,Crawdaunt,True,exato,342
+376,Baltoy,True,exato,343
+377,Claydol,True,exato,344
+378,Lileep,True,exato,345
+379,Cradily,True,exato,346
+38,Nidoran♂,True,aproximado,32
+380,Anorith,True,exato,347
+381,Armaldo,True,exato,348
+382,Feebas,True,exato,349
+383,Milotic,True,exato,350
+384,Castform,True,exato,351
+385,Kecleon,True,exato,352
+386,Shuppet,True,exato,353
+387,Banette,True,exato,354
+388,Mega Banette,True,exato,354
+389,Duskull,True,exato,355
+39,Nidorino,True,exato,33
+390,Dusclops,True,exato,356
+391,Tropius,True,exato,357
+392,Chimecho,True,exato,358
+393,Absol,True,exato,359
+394,Mega Absol,True,exato,359
+395,Wynaut,True,exato,360
+396,Snorunt,True,exato,361
+397,Glalie,True,exato,362
+398,Mega Glalie,True,exato,362
+399,Spheal,True,exato,363
+4,Mega Venusaur,True,exato,3
+40,Nidoking,True,exato,34
+400,Sealeo,True,exato,364
+401,Walrein,True,exato,365
+402,Clamperl,True,exato,366
+403,Huntail,True,exato,367
+404,Gorebyss,True,exato,368
+405,Relicanth,True,exato,369
+406,Luvdisc,True,exato,370
+407,Bagon,True,exato,371
+408,Shelgon,True,exato,372
+409,Salamence,True,exato,373
+41,Clefairy,True,exato,35
+410,Mega Salamence,True,exato,373
+411,Beldum,True,exato,374
+412,Metang,True,exato,375
+413,Metagross,True,exato,376
+414,Mega Metagross,True,exato,376
+415,Regirock,True,exato,377
+416,Regice,True,exato,378
+417,Registeel,True,exato,379
+418,Latias,True,exato,380
+419,Mega Latias,True,exato,380
+42,Clefable,True,exato,36
+420,Latios,True,exato,381
+421,Mega Latios,True,exato,381
+422,Kyogre,True,exato,382
+423,Primal Kyogre,True,manual,382
+424,Groudon,True,exato,383
+425,Primal Groudon,True,manual,383
+426,Rayquaza,True,exato,384
+427,Mega Rayquaza,True,exato,384
+428,Jirachi,True,exato,385
+429,Deoxys Normal Forme,False,,
+43,Vulpix,True,exato,37
+430,DeoxysAttack Forme,False,,
+431,Deoxys Defense Forme,True,manual,386
+432,Deoxys Speed Forme,True,manual,386
+433,Turtwig,True,exato,387
+434,Grotle,True,exato,388
+435,Torterra,True,exato,389
+436,Chimchar,True,exato,390
+437,Monferno,True,exato,391
+438,Infernape,True,exato,392
+439,Piplup,True,exato,393
+44,Ninetales,True,exato,38
+440,Prinplup,True,exato,394
+441,Empoleon,True,exato,395
+442,Starly,True,exato,396
+443,Staravia,True,exato,397
+444,Staraptor,True,exato,398
+445,Bidoof,True,exato,399
+446,Bibarel,True,exato,400
+447,Kricketot,True,exato,401
+448,Kricketune,True,exato,402
+449,Shinx,True,exato,403
+45,Jigglypuff,True,exato,39
+450,Luxio,True,exato,404
+451,Luxray,True,exato,405
+452,Budew,True,exato,406
+453,Roserade,True,exato,407
+454,Cranidos,True,exato,408
+455,Rampardos,True,exato,409
+456,Shieldon,True,exato,410
+457,Bastiodon,True,exato,411
+458,Burmy,True,exato,412
+459,Wormadam Plant Cloak,True,manual,413
+46,Wigglytuff,True,exato,40
+460,Wormadam Sandy Cloak,True,manual,413
+461,Wormadam Trash Cloak,True,manual,413
+462,Mothim,True,exato,414
+463,Combee,True,exato,415
+464,Vespiquen,True,exato,416
+465,Pachirisu,True,exato,417
+466,Buizel,True,exato,418
+467,Floatzel,True,exato,419
+468,Cherubi,True,exato,420
+469,Cherrim,True,exato,421
+47,Zubat,True,exato,41
+470,Shellos,True,exato,422
+471,Gastrodon,True,exato,423
+472,Ambipom,True,exato,424
+473,Drifloon,True,exato,425
+474,Drifblim,True,exato,426
+475,Buneary,True,exato,427
+476,Lopunny,True,exato,428
+477,Mega Lopunny,True,exato,428
+478,Mismagius,True,exato,429
+479,Honchkrow,True,exato,430
+48,Golbat,True,exato,42
+480,Glameow,True,exato,431
+481,Purugly,True,exato,432
+482,Chingling,True,exato,433
+483,Stunky,True,exato,434
+484,Skuntank,True,exato,435
+485,Bronzor,True,exato,436
+486,Bronzong,True,exato,437
+487,Bonsly,True,exato,438
+488,Mime Jr.,True,exato,439
+489,Happiny,True,exato,440
+49,Oddish,True,exato,43
+490,Chatot,True,exato,441
+491,Spiritomb,True,exato,442
+492,Gible,True,exato,443
+493,Gabite,True,exato,444
+494,Garchomp,True,exato,445
+495,Mega Garchomp,True,exato,445
+496,Munchlax,True,exato,446
+497,Riolu,True,exato,447
+498,Lucario,True,exato,448
+499,Mega Lucario,True,exato,448
+5,Charmander,True,exato,4
+50,Gloom,True,exato,44
+500,Hippopotas,True,exato,449
+501,Hippowdon,True,exato,450
+502,Skorupi,True,exato,451
+503,Drapion,True,exato,452
+504,Croagunk,True,exato,453
+505,Toxicroak,True,exato,454
+506,Carnivine,True,exato,455
+507,Finneon,True,exato,456
+508,Lumineon,True,exato,457
+509,Mantyke,True,exato,458
+51,Vileplume,True,exato,45
+510,Snover,True,exato,459
+511,Abomasnow,True,exato,460
+512,Mega Abomasnow,True,exato,460
+513,Weavile,True,exato,461
+514,Magnezone,True,exato,462
+515,Lickilicky,True,exato,463
+516,Rhyperior,True,exato,464
+517,Tangrowth,True,exato,465
+518,Electivire,True,exato,466
+519,Magmortar,True,exato,467
+52,Paras,True,exato,46
+520,Togekiss,True,exato,468
+521,Yanmega,True,exato,469
+522,Leafeon,True,exato,470
+523,Glaceon,True,exato,471
+524,Gliscor,True,exato,472
+525,Mamoswine,True,exato,473
+526,Porygon-Z,True,exato,474
+527,Gallade,True,exato,475
+528,Mega Gallade,True,exato,475
+529,Probopass,True,exato,476
+53,Parasect,True,exato,47
+530,Dusknoir,True,exato,477
+531,Froslass,True,exato,478
+532,Rotom,True,exato,479
+533,Heat Rotom,False,,
+534,Wash Rotom,False,,
+535,Frost Rotom,False,,
+536,Fan Rotom,False,,
+537,Mow Rotom,False,,
+538,Uxie,True,exato,480
+539,Mesprit,True,exato,481
+54,Venonat,True,exato,48
+540,Azelf,True,exato,482
+541,Dialga,True,exato,483
+542,Palkia,True,exato,484
+543,Heatran,True,exato,485
+544,Regigigas,True,exato,486
+545,Giratina Altered Forme,True,manual,487
+546,Giratina Origin Forme,True,manual,487
+547,Cresselia,True,exato,488
+548,Phione,True,exato,489
+549,Manaphy,True,exato,490
+55,Venomoth,True,exato,49
+550,Darkrai,True,exato,491
+551,Shaymin Land Forme,False,,
+552,Shaymin Sky Forme,True,manual,492
+553,Arceus,True,exato,493
+554,Victini,True,exato,494
+555,Snivy,True,exato,495
+556,Servine,True,exato,496
+557,Serperior,True,exato,497
+558,Tepig,True,exato,498
+559,Pignite,True,exato,499
+56,Diglett,True,exato,50
+560,Emboar,True,exato,500
+561,Oshawott,True,exato,501
+562,Dewott,True,exato,502
+563,Samurott,True,exato,503
+564,Patrat,True,exato,504
+565,Watchog,True,exato,505
+566,Lillipup,True,exato,506
+567,Herdier,True,exato,507
+568,Stoutland,True,exato,508
+569,Purrloin,True,exato,509
+57,Dugtrio,True,exato,51
+570,Liepard,True,exato,510
+571,Pansage,True,exato,511
+572,Simisage,True,exato,512
+573,Pansear,True,exato,513
+574,Simisear,True,exato,514
+575,Panpour,True,exato,515
+576,Simipour,True,exato,516
+577,Munna,True,exato,517
+578,Musharna,True,exato,518
+579,Pidove,True,exato,519
+58,Meowth,True,exato,52
+580,Tranquill,True,exato,520
+581,Unfezant,True,exato,521
+582,Blitzle,True,exato,522
+583,Zebstrika,True,exato,523
+584,Roggenrola,True,exato,524
+585,Boldore,True,exato,525
+586,Gigalith,True,exato,526
+587,Woobat,True,exato,527
+588,Swoobat,True,exato,528
+589,Drilbur,True,exato,529
+59,Persian,True,exato,53
+590,Excadrill,True,exato,530
+591,Audino,True,exato,531
+592,Mega Audino,True,exato,531
+593,Timburr,True,exato,532
+594,Gurdurr,True,exato,533
+595,Conkeldurr,True,exato,534
+596,Tympole,True,exato,535
+597,Palpitoad,True,exato,536
+598,Seismitoad,True,exato,537
+599,Throh,True,exato,538
+6,Charmeleon,True,exato,5
+60,Psyduck,True,exato,54
+600,Sawk,True,exato,539
+601,Sewaddle,True,exato,540
+602,Swadloon,True,exato,541
+603,Leavanny,True,exato,542
+604,Venipede,True,exato,543
+605,Whirlipede,True,exato,544
+606,Scolipede,True,exato,545
+607,Cottonee,True,exato,546
+608,Whimsicott,True,exato,547
+609,Petilil,True,exato,548
+61,Golduck,True,exato,55
+610,Lilligant,True,exato,549
+611,Basculin,False,,
+612,Sandile,True,exato,551
+613,Krokorok,True,exato,552
+614,Krookodile,True,exato,553
+615,Darumaka,True,exato,554
+616,Darmanitan Standard Mode,True,aproximado,555
+617,Darmanitan Zen Mode,True,manual,555
+618,Maractus,True,exato,556
+619,Dwebble,True,exato,557
+62,Mankey,True,exato,56
+620,Crustle,True,exato,558
+621,Scraggy,True,exato,559
+622,Scrafty,True,exato,560
+623,Sigilyph,True,exato,561
+624,Yamask,True,exato,562
+625,Cofagrigus,True,exato,563
+626,Tirtouga,True,exato,564
+627,Carracosta,True,exato,565
+628,Archen,True,exato,566
+629,Archeops,True,exato,567
+63,,False,,
+630,Trubbish,True,exato,568
+631,Garbodor,True,exato,569
+632,Zorua,True,exato,570
+633,Zoroark,True,exato,571
+634,Minccino,True,exato,572
+635,Cinccino,True,exato,573
+636,Gothita,True,exato,574
+637,Gothorita,True,exato,575
+638,Gothitelle,True,exato,576
+639,Solosis,True,exato,577
+64,Growlithe,True,exato,58
+640,Duosion,True,exato,578
+641,Reuniclus,True,exato,579
+642,Ducklett,True,exato,580
+643,Swanna,True,exato,581
+644,Vanillite,True,exato,582
+645,Vanillish,True,exato,583
+646,Vanilluxe,True,exato,584
+647,Deerling,True,exato,585
+648,Sawsbuck,True,exato,586
+649,Emolga,True,exato,587
+65,Arcanine,True,exato,59
+650,Karrablast,True,exato,588
+651,Escavalier,True,exato,589
+652,Foongus,True,exato,590
+653,Amoonguss,True,exato,591
+654,Frillish,False,,
+655,Jellicent,False,,
+656,Alomomola,True,exato,594
+657,Joltik,True,exato,595
+658,Galvantula,True,exato,596
+659,Ferroseed,True,exato,597
+66,Poliwag,True,exato,60
+660,Ferrothorn,True,exato,598
+661,Klink,True,exato,599
+662,Klang,True,exato,600
+663,Klinklang,True,exato,601
+664,Tynamo,True,exato,602
+665,Eelektrik,True,exato,603
+666,Eelektross,True,exato,604
+667,Elgyem,True,exato,605
+668,Beheeyem,True,exato,606
+669,Litwick,True,exato,607
+67,Poliwhirl,True,exato,61
+670,Lampent,True,exato,608
+671,Chandelure,True,exato,609
+672,Axew,True,exato,610
+673,Fraxure,True,exato,611
+674,Haxorus,True,exato,612
+675,Cubchoo,True,exato,613
+676,Beartic,True,exato,614
+677,Cryogonal,True,exato,615
+678,Shelmet,True,exato,616
+679,Accelgor,True,exato,617
+68,Poliwrath,True,exato,62
+680,Stunfisk,True,exato,618
+681,Mienfoo,True,exato,619
+682,Mienshao,True,exato,620
+683,Druddigon,True,exato,621
+684,Golett,True,exato,622
+685,Golurk,True,exato,623
+686,Pawniard,True,exato,624
+687,Bisharp,True,exato,625
+688,Bouffalant,True,exato,626
+689,Rufflet,True,exato,627
+69,Abra,True,exato,63
+690,Braviary,True,exato,628
+691,Vullaby,True,exato,629
+692,Mandibuzz,True,exato,630
+693,Heatmor,True,exato,631
+694,Durant,True,exato,632
+695,Deino,True,exato,633
+696,Zweilous,True,exato,634
+697,Hydreigon,True,exato,635
+698,Larvesta,True,exato,636
+699,Volcarona,True,exato,637
+7,Charizard,True,exato,6
+70,Kadabra,True,exato,64
+700,Cobalion,True,exato,638
+701,Terrakion,True,exato,639
+702,Virizion,True,exato,640
+703,Tornadus Incarnate Forme,True,aproximado,641
+704,Tornadus Therian Forme,True,manual,641
+705,Thundurus Incarnate Forme,True,aproximado,642
+706,Thundurus Therian Forme,True,manual,642
+707,Reshiram,True,exato,643
+708,Zekrom,True,exato,644
+709,Landorus Incarnate Forme,True,aproximado,645
+71,Alakazam,True,exato,65
+710,Landorus Therian Forme,True,manual,645
+711,Kyurem,True,exato,646
+712,Kyurem Black Kyurem,False,,
+713,Kyurem White Kyurem,False,,
+714,Keldeo Ordinary Forme,False,,
+715,Keldeo Resolute Forme,True,manual,647
+716,Meloetta Aria Forme,False,,
+717,Meloetta Pirouette Forme,True,manual,648
+718,Genesect,True,exato,649
+719,Chespin,True,exato,650
+72,Mega Alakazam,True,exato,65
+720,Quilladin,True,exato,651
+721,Chesnaught,True,exato,652
+722,Fennekin,True,exato,653
+723,Braixen,True,exato,654
+724,Delphox,True,exato,655
+725,Froakie,True,exato,656
+726,Frogadier,True,exato,657
+727,Greninja,True,exato,658
+728,Bunnelby,True,exato,659
+729,Diggersby,True,exato,660
+73,Machop,True,exato,66
+730,Fletchling,True,exato,661
+731,Fletchinder,True,exato,662
+732,Talonflame,True,exato,663
+733,Scatterbug,True,exato,664
+734,Spewpa,True,exato,665
+735,Vivillon,True,exato,666
+736,Litleo,True,exato,667
+737,Pyroar,False,,
+738,Flabébé,False,,
+739,Floette,True,exato,670
+74,Machoke,True,exato,67
+740,Florges,True,exato,671
+741,Skiddo,True,exato,672
+742,Gogoat,True,exato,673
+743,Pancham,True,exato,674
+744,Pangoro,True,exato,675
+745,Furfrou,True,exato,676
+746,Espurr,True,exato,677
+747,Meowstic Male,True,exato,678
+748,Meowstic Female,True,exato,678
+749,Honedge,True,exato,679
+75,Machamp,True,exato,68
+750,Doublade,True,exato,680
+751,Aegislash Blade Forme,True,manual,681
+752,Aegislash Shield Forme,True,manual,681
+753,Spritzee,True,exato,682
+754,Aromatisse,True,exato,683
+755,Swirlix,True,exato,684
+756,Slurpuff,True,exato,685
+757,Inkay,True,exato,686
+758,Malamar,True,exato,687
+759,Binacle,True,exato,688
+76,Bellsprout,True,exato,69
+760,Barbaracle,True,exato,689
+761,Skrelp,True,exato,690
+762,Dragalge,True,exato,691
+763,Clauncher,True,exato,692
+764,Clawitzer,True,exato,693
+765,Helioptile,True,exato,694
+766,Heliolisk,True,exato,695
+767,Tyrunt,True,exato,696
+768,Tyrantrum,True,exato,697
+769,Amaura,True,exato,698
+77,Weepinbell,True,exato,70
+770,Aurorus,True,exato,699
+771,Sylveon,True,exato,700
+772,Hawlucha,True,exato,701
+773,Dedenne,True,exato,702
+774,Carbink,True,exato,703
+775,Goomy,True,exato,704
+776,Sliggoo,True,exato,705
+777,Goodra,True,exato,706
+778,Klefki,True,exato,707
+779,Phantump,True,exato,708
+78,Victreebel,True,exato,71
+780,Trevenant,True,exato,709
+781,Pumpkaboo Average Size,True,aproximado,710
+782,Pumpkaboo Small Size,True,manual,710
+783,Pumpkaboo Large Size,True,manual,710
+784,Pumpkaboo Super Size,True,manual,710
+785,Gourgeist Average Size,True,aproximado,711
+786,Gourgeist Small Size,True,manual,711
+787,Gourgeist Large Size,True,manual,711
+788,Gourgeist Super Size,True,manual,711
+789,Bergmite,True,exato,712
+79,Tentacool,True,exato,72
+790,Avalugg,True,exato,713
+791,Noibat,True,exato,714
+792,Noivern,True,exato,715
+793,Xerneas,True,exato,716
+794,Yveltal,True,exato,717
+795,Zygarde Half Forme,False,,
+796,Diancie,True,exato,719
+797,Mega Diancie,True,exato,719
+798,Hoopa Confined,False,,
+799,Hoopa Unbound,True,manual,720
+8,Mega Charizard X,True,exato,6
+80,Tentacruel,True,exato,73
+800,Volcanion,True,exato,721
+81,Geodude,True,exato,74
+82,Graveler,True,exato,75
+83,Golem,True,exato,76
+84,Ponyta,True,exato,77
+85,Rapidash,True,exato,78
+86,Slowpoke,True,exato,79
+87,Slowbro,True,exato,80
+88,Mega Slowbro,True,exato,80
+89,Magnemite,True,exato,81
+9,Mega Charizard Y,True,exato,6
+90,Magneton,True,exato,82
+91,Farfetch'd,True,exato,83
+92,Doduo,True,exato,84
+93,Dodrio,True,exato,85
+94,Seel,True,exato,86
+95,Dewgong,True,exato,87
+96,Grimer,True,exato,88
+97,Muk,True,exato,89
+98,Shellder,True,exato,90
+99,Cloyster,True,exato,91
